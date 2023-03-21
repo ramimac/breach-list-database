@@ -10,6 +10,7 @@ A meta-database collecting resources that compile lists of (security) incidents
 * Destroyed by Breach - [Adrian Sanabria's Destroyed by Breach](https://docs.google.com/spreadsheets/d/15CTPcgZQenWKDLDTQ2ibveUM4i7Of_n20TzdTi23xcg/edit#gid=0) [tweet](https://twitter.com/sawaba/status/1553938672667566082)
 * Supply Chain - [CNCF's Supply Chain Security Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
 * Machine Learning - [MITRE Adversarial ML Threat Matrix Case Studies](https://github.com/mitre/advmlthreatmatrix)
+* Caching - Scott Piper's [Security Incidents From Caching](https://github.com/0xdabbad00/security_incidents_from_caching)
 * -2015 [Repository of Industrial Security Incidents](https://www.risidata.com/Database)
 * -2010 [Web Hacking Incident Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database)
 
