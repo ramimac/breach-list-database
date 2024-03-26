@@ -11,6 +11,7 @@ A meta-database collecting resources that compile lists of (security) incidents
 * Cloud Service Providers - [CloudVulnDB](https://cloudvulndb.org)
 * S3 Bucket Leaks - [nagwww's s3-leaks](https://github.com/nagwww/s3-leaks)
 * Destroyed by Breach - [Adrian Sanabria's Destroyed by Breach](https://docs.google.com/spreadsheets/d/15CTPcgZQenWKDLDTQ2ibveUM4i7Of_n20TzdTi23xcg/edit#gid=0) [tweet](https://twitter.com/sawaba/status/1553938672667566082)
+* Identity based attacks - [Push Security](https://pushsecurity.com/blog/identity-attacks-in-the-wild/)
 * Ransomware - [RansomLook](https://www.ransomlook.io/recent)
 * Ransomware - [Ransomware.live](https://ransomware.live/#/)
 * Supply Chain - [CNCF's Supply Chain Security Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
