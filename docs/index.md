@@ -3,6 +3,7 @@ A meta-database collecting resources that compile lists of (security) incidents
 
 ## Thematic Breach Lists
 
+* AI - [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://ojs.aaai.org/index.php/AAAI/article/view/30347)
 * AWS Customers - [ramimac's AWS Customer Security Incidents](https://github.com/ramimac/aws-customer-security-incidents)
 * Caching - Scott Piper's [Security Incidents From Caching](https://github.com/0xdabbad00/security_incidents_from_caching)
 * Cloud - [Chris Farris' breaches.cloud](https://breaches.cloud)
@@ -14,6 +15,7 @@ A meta-database collecting resources that compile lists of (security) incidents
 * Identity based attacks - [Push Security](https://pushsecurity.com/blog/identity-attacks-in-the-wild/)
 * Ransomware - [RansomLook](https://www.ransomlook.io/recent)
 * Ransomware - [Ransomware.live](https://ransomware.live/#/)
+* Stegonography - [lucacav/steg-in-the-wild](https://github.com/lucacav/steg-in-the-wild)
 * Supply Chain - [CNCF's Supply Chain Security Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
 * Machine Learning - [MITRE Adversarial ML Threat Matrix Case Studies](https://github.com/mitre/advmlthreatmatrix)
 * -2015 [Repository of Industrial Security Incidents](https://www.risidata.com/Database)
