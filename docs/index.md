@@ -22,6 +22,7 @@ A meta-database collecting resources that compile lists of (security) incidents
 * Supply Chain
     * [CNCF's Supply Chain Security Compromises](https://github.com/cncf/tag-security/tree/main/community/catalog/compromises)
     * [OpenSSF's Catalog of Supply Chain Compromises ](https://docs.google.com/spreadsheets/d/1DhIl2Khh4ugZWX3M9zJgJoO-M2w42aKQzKjD7_-R8q8/edit?gid=0#gid=0)
+    * [tstromberg's OSS Supply Chain Attack Compendium](https://github.com/tstromberg/supplychain-attack-data)
 * Machine Learning - [MITRE Adversarial ML Threat Matrix Case Studies](https://github.com/mitre/advmlthreatmatrix)
 * -2015 [Repository of Industrial Security Incidents](https://www.risidata.com/Database)
 * -2010 [Web Hacking Incident Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database)
