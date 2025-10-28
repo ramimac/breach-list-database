@@ -3,7 +3,9 @@ A meta-database collecting resources that compile lists of (security) incidents
 
 ## Thematic Breach Lists
 
-* AI - [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://ojs.aaai.org/index.php/AAAI/article/view/30347)
+* AI
+  * [When Your AI Becomes a Target: AI Security Incidents and Best Practices](https://ojs.aaai.org/index.php/AAAI/article/view/30347)
+  * [OWASP Top 10 for Agentic Apps - ASI Agentic Exploits & Incidents Master List](https://github.com/almogbhl/www-project-top-10-for-large-language-model-applications/blob/b2ab40aebc9d9cac5601775cbffd69ac462a6bd9/initiatives/agent_security_initiative/ASI%20Agentic%20Exploits%20%26%20Incidents/ASI_Agentic_Exploits_Incidents.md)
 * Caching - Scott Piper's [Security Incidents From Caching](https://github.com/0xdabbad00/security_incidents_from_caching)
 * Cloud
     * [Chris Farris' breaches.cloud](https://breaches.cloud)
