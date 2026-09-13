@@ -29,6 +29,22 @@ A meta-database collecting resources that compile lists of (security) incidents
 * -2015 [Repository of Industrial Security Incidents](https://www.risidata.com/Database)
 * -2010 [Web Hacking Incident Database](http://projects.webappsec.org/w/page/13246995/Web-Hacking-Incident-Database)
 
+## Geographic Breach Lists
+
+These lists are scoped to a specific country or region. They differ from generic lists above in their geographic filter, and vary widely in selectivity—from comprehensive aggregators of every disclosed incident to highly curated national-impact lists.
+
+| List | Geography | Style | Notes |
+|------|-----------|-------|-------|
+| [VSec.dk / Incidents](https://vsec.dk/incidents/) | 🇩🇰 Denmark | Curated, open-source | ~37 incidents since 2012. Includes DDoS, ICS/OT, supply chain. High threshold—national impact or critical infrastructure. Backed by [GitHub repo](https://github.com/VSecDK/VSec-CTI-League). |
+| [RecentBreaches.com / US](https://recentbreaches.com/us) | 🇺🇸 USA | Filing + claim aggregator | 14,119+ incidents. Separates **confirmed filings** (state AG, SEC 8-K, CISA) from **ransomware claims** (leak-site allegations). Very low threshold. Strong epistemic transparency. |
+| [AusDataBreach.org](https://ausdatabreach.org/) | 🇦🇺 Australia | Breach tracker | Hundreds of incidents. Three-tier severity (MINOR/SERIOUS/SEVERE). Very low threshold—includes 3-record breaches. Broad sector coverage. |
+| [FrenchBreaches.com](https://frenchbreaches.com/) | 🇫🇷 France | Leak + breach tracker | Labels incidents **Confirmée** (victim-confirmed) vs **Revendiquée (credible)** (threat-actor claimed). Lists exposed data types per incident. Uniquely includes attempted attacks. |
+| [IndianBreaches.com](https://indianbreaches.com/) | 🇮🇳 India | Transparency initiative | Indexes publicly visible threat-actor posts. Legal disclaimer: does not acquire or host stolen data. |
+| [CanadaBreaches.ca](https://canadabreaches.ca/) | 🇨🇦 Canada | Breach tracker | JS-rendered; details could not be retrieved. |
+| [EURepoC.eu / Database](https://eurepoc.eu/database/) | 🇪🇺 EU | Academic/policy dataset | Research-grade. Tracks EU Cyber Diplomacy Toolbox application. High selectivity (policy-significant incidents only). Static dataset versions for reproducibility. Not a real-time consumer tracker. |
+
+For a detailed analysis of inclusion criteria and a framework for building new geographic lists, see [geographic-breach-lists-analysis.md](geographic-breach-lists-analysis.md).
+
 ## Generic Breach Lists
 
 * [Wikipedia List of Data Breaches](https://en.wikipedia.org/wiki/List_of_data_breaches)
